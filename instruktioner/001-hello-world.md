@@ -10,24 +10,24 @@ Efter denna övning ska du kunna:
 
 HTML eller *Hypertext Markup Language*, beskriver en hierarki av visuella element som en webbläsare kan visa.
 
-HTML ser oftast ut som _någorlunda_ läsbar text som men som omges av _taggar_. Man skapar taggar med hjälp av _krokodilmunnar_ `< >`, så här:
+HTML ser oftast ut som _någorlunda_ läsbar text men som omges av _taggar_. Man skapar taggar med hjälp av _krokodilmunnar_ `< >`, såhär:
 
-```Html
+```html
 <exempeltagg>
     Att ha lanmössa bör man, annars dör man!
 </exempeltagg>
 ```
 
-De flesta taggar kräver både en **öppnings-** `<exempeltagg>` och en **stängnings**-tagg `</exempeltagg>`. En framåt snedstreck `/` markerar att taggen är en stängningstagg.
+De flesta taggar kräver både en **öppnings-** `<exempeltagg>` och en **stängnings**-tagg `</exempeltagg>`. Ett snedstreck `/` markerar att taggen är en stängningstagg.
 
 ### Taggar
 En tagg kan heta vad som helst och man kan döpa dom till vad som helst.
-Men det finns några förbestämda taggar som webbläsaren vet hur den ska tolka och visa.
+Men det finns några förutbestämda taggar som webbläsaren vet hur den ska tolka och visa.
 Det finns till exempel taggar för rubriker, paragrafer, bilder, inputs (formulär där man skriver in text osv.)
 
-Man kan skapa sina egna taggar men det bästa är att först välja och använda de taggar som finns förutbestämda. 
+Man kan skapa sina egna taggar men det bästa är att först välja och använda de taggar som finns förutbestämda och utgå från dem.
 
-En av de vanligaste taggarna är `<p>`, kort för engelskans *Paragraph*.
+En av de vanligaste taggarna är `<p>`, förkortning för engelskans *Paragraph*.
 
 ### Övning
 
