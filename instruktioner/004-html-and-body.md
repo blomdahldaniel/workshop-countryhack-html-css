@@ -32,4 +32,4 @@ Det kan tyckas konstigt och kanske omständligt, men dessa formateringsregler hj
 ### Övning
 1. Öppna `index.html`
 2. Placera `<html> 'och' <body>` taggar runt ditt innehåll.
-3. Spara och uppdatera webbläsaren för att se förändringarna.
+3. Spara och uppdatera webbläsaren för att se förändringarna, om det blev några..
