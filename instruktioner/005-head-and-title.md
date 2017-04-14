@@ -23,7 +23,7 @@ Här är en titt på ett simpelt HTML-dokument med ett _huvud_ och en _titel_:
 ```html
 <html>
   <head>
-    <title> en iögonfallande Titel </title>
+    <title>Detta är världens coolaste hemsida</title>
   </head>
   <body>
     Mer HTML går här.
@@ -34,7 +34,7 @@ Här är en titt på ett simpelt HTML-dokument med ett _huvud_ och en _titel_:
 Vi måste ha dessa element på plats för att följa HTML5 standarder. Och för att deklarera vår sida som ett HTML5-dokument, vi sätter ytterligare en tagg: `DOCTYPE` i toppen, så här:
 
 ```html
-<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
    
@@ -44,7 +44,7 @@ Vi måste ha dessa element på plats för att följa HTML5 standarder. Och för 
 Till skillnad från andra taggar vi har arbetat med så är `DOCTYPE` inte en HTML-tagg. Det är en speciell webbläsare instruktion som visar vilken typ av dokument det är. Detta hjälper webbläsare gör dina sidor snabbare eftersom de hoppa över den process som bestämmer vilken version av HTML dokumentet kräver (i detta fall, vi vet att det är 5).
 
 #### Meta-taggar
-För att webbläsaren ska kunna förstå och tolka svenska tecken måste vi tala om det för den. Det gör vi genom att lägga till en så kallad **meta**-tagg `<meta>`. Meta-taggar tillhandahåller information om hemsidan till webbläsaren och sökmotorer. För att webbläsaren ska förstå svenska måste vi lägga till en meta-tagg med attributet `charset` med värdet `utf-8` som är ett charset, en bas med de bokstäver som skall användas.
+För att webbläsaren ska kunna förstå och tolka svenska tecken måste vi tala om det för den. Det gör vi genom att lägga till en så kallad **meta**-tagg `<meta>`. Meta-taggar tillhandahåller information om hemsidan till webbläsaren och sökmotorer. För att webbläsaren ska förstå svenska måste vi lägga till en meta-tagg med attributet `charset` med värdet `utf-8` som är ett charset, en bas med de bokstäver som skall användas. Alla meta-taggar placeras inom HTML-dokumentets `<head>`.
 
 ``` 
 <meta charset="utf-8">
@@ -54,7 +54,7 @@ För att webbläsaren ska kunna förstå och tolka svenska tecken måste vi tala
 ### Övning
 1. Öppna `index.html`
 2. Lägg `<head>` taggar till dokumentet.
-3. Lägg till en titel för dokumentet.
+3. Lägg till en titel för dokumentet. (typ Countryhack)
 4. Lägg till `DOCTYPE` instruktion.
 5. Lägg till meta-taggen som kan förstå svenska tecken.
 5. Spara och uppdatera webbläsaren för att se förändringarna. **Titta särskilt noga efter flikens namn.**
