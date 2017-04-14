@@ -4,7 +4,7 @@ Efter denna övning ska du kunna:
 
 - Identifiera HTML header-tagg ('<h1>', '<h2>', etc.)
 - Använd en HTML header-tagg i ett dokument
-- Förstå när man ska/inte ska använda `<h1>` taggar
+- Förstå när man ska/inte ska använda `<h1>`-taggar
 
 ### Exempel
 
