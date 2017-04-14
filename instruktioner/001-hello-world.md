@@ -31,7 +31,7 @@ En av de vanligaste taggarna är `<p>`, kort för engelskans *Paragraph*.
 
 ### Övning
 
-1. Skapa en ny fil och döp den till `index.html`
+1. Skapa en ny fil och döp den till `index.html` och placera den i mappen `/public`
 1. Skriv `Hello World`.
 1. Omringa `Hello World`-texten med öppnings- och stängnings-taggen för en `paragraph`.
 1. Spara ändringarna.
