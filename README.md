@@ -2,11 +2,13 @@
 
 ## Sammanfattning
 
-Lär dig att skapa en grundläggande HTML och CSS webbplats genom att organisera och styla bilder och text.
+Lär dig att skapa en grundläggande hemsida med hjälp av HTML och CSS, du kommer lära dig att hantera och styla bilder och text.
 
 ## Beskrivning
 
 HTML och CSS är de två primära språk som du behöver veta för att bygga en webbplats. Även om det finns mer avancerade sätt att bygga en webbplats måste alla webbutvecklare förstå HTML och CSS, oberoende av andra tekniker som de använder.
+
+Denna workshop är tänkt att riktas till de som är nybörjare inom webbutveckling. Om du känner att du har lite erfarenhet så kan du i så fall jobba på i din egen takt och därefter få hjälp och tips på att komma vidare med mer avancerade saker.
 
 Workshopen börjar med att utforska HTML-taggar och hur man organiserar olika typer av information om HTML-sidor. HTML eller *Hypertext Markup Language*, beskriver en hierarki av visuella element som en webbläsare kan visa. Du får lära dig om de vanligaste element, som rubriker, stycken, tabeller och listor.
 
