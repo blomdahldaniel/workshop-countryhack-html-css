@@ -1,6 +1,5 @@
 # HTML och CSS - Countryhack `2017-04-15`
-
-![Lets start hacking!](https://i.imgur.com/cZGjaRG.gif)
+![Countryhack VGA 2017!](https://countryhack.se/files/logos/logo8.png)
 
 ## Sammanfattning
 
@@ -31,7 +30,11 @@ Efter workshoppen ska deltagaren ha lärt sig:
 Varje övning har sina egna specifika mål.
 
 
-### Instruktioner
+### NU KÖR VI!!
+![Lets start hacking!](https://i.imgur.com/cZGjaRG.gif)
+
+
+### Delmoment
 
 1. [Hello World](./instruktioner/001-hello-world.md)
 1. [Paragrafer](./instruktioner/002-paragrafer.md)
