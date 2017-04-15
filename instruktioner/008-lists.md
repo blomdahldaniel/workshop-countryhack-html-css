@@ -1,4 +1,4 @@
-### mål
+### Mål
 
 Efter denna övning ska du kunna:
 
@@ -82,5 +82,5 @@ Dessa är oftast återges med punkter, så här:
 ### Övning
 
 1. Öppna `index.html`
-2. Lägg till en underrubrik **Turneringar** och lägg till minst 5 av våra turneringar.
+2. Lägg till en underrubrik **Turneringar** och lägg till minst 5 av våra turneringar, varje spel ska vara inuti var sin `<li>`-tagg i en osorterad lista.
 3. Spara och uppdatera webbläsaren för att se förändringarna.
