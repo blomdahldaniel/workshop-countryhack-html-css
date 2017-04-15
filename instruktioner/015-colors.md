@@ -37,7 +37,7 @@ De två första tecknen representerar röd, nästa två gröna och de två sista
 Nu ska vi färga om sidan lite...
 
 1. Öppna `main.css`.
-2. Ställ in `body` `background` `#f5f5f5`textfärgen och tablerubrikens border till `#424242` Sätt också `body` `font-size` till `36px` och `font-weight` till `lighter`.
+2. Ställ in `body` `background` `#f5f5f5`, body-textfärgen och tablerubrikens border till `#424242` Sätt också `body` `font-size` till `18px` och `font-weight` till `lighter`.
 4. Ställ in länkens färg till `#2991c7`.
 5. Ställ in `h1` färg till` #fab555`.
 6. Ställ in `.info` bakgrundsfärg och tabellens kantfärg till `#ffffff`.
