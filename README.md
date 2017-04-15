@@ -1,5 +1,7 @@
 # HTML och CSS - Countryhack `2017-04-15`
 
+![Lets start hacking!](https://i.imgur.com/cZGjaRG.gif)
+
 ## Sammanfattning
 
 Lär dig att skapa en grundläggande hemsida med hjälp av HTML och CSS, du kommer lära dig att hantera och styla bilder och text.

@@ -34,9 +34,12 @@ div {
 En `<div>` är som en `<span>` som gäller för ett helt block av innehåll. Men en `<div>` hamnar automatiskt på en ny rad vilket inte en span gör.
 
 ### CSS ett utvecklande språk
-CSS är ett väldigt gammalt språk som till en början inte alls var anpassat för att ha menyer, modaler och hemsidor så som våra hemsidor ser ut idag. Därför har det länge varit svårt och krångligt att få mer avancerade och dynamiska layouter att bli som man vill. Men eftersom CSS är ett utvecklande ständigt levande språk har det nu kommit uppdateringar som gör det hela lite enklare.
+CSS är ett väldigt gammalt språk som till en början inte alls var anpassat för att ha menyer, modaler och hemsidor så som våra hemsidor ser ut idag. Därför har det länge varit svårt och krångligt att få mer avancerade och dynamiska layouter att bli som man vill. 
 
-Om du vill lära dig mer om hur man positionerar och strukturerar responsivt innehåll kan du lära dig mer om **flexbox**.
+![CSS is hard..](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
+
+
+Men eftersom CSS är ett utvecklande ständigt levande språk har det nu kommit uppdateringar som gör det hela lite enklare. Om du vill lära dig mer om hur man positionerar och strukturerar responsivt innehåll kan du lära dig mer om **flexbox**.
 
 ### Övning
 1. Öppna `index.html`.
