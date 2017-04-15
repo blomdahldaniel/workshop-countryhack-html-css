@@ -12,7 +12,7 @@ Listor är bra för att visa en serie artiklar i en enda kolumn. Men viss inform
 
 Till exempel är det svårt att uttrycka denna information i en enkel lista:
 
-| Datum             | Spel              | Prispott  | Vinnare       |
+| Datum             | Spel              | Pris  | Vinnare       |
 | ----------------- |------------------ | --------- | ------------- |
 | 13 April kl 18:00 | Counter-Strike    | 10.000 kr | Krubbs pojkar |
 | 14 April kl 13:37 | Curve Feever      | Y-fronts gamla kalsonger | Blodluvan |
@@ -58,7 +58,7 @@ Här är HTML som producerar ovanstående exempel. Lägg märke till hur rubrikc
 ### Övning
 
 1. Öppna `index.html`
-2. Gör ett schema över lördag dags aktiviteter för CS, LoL och FIFA. Hämta informationen från [Countryhacks kalender](https://countryhack.se/calendar/index.php)
+2. Gör ett schema över lördagens aktiviteter för CS, LoL och FIFA. Hämta informationen från [Countryhacks kalender](https://countryhack.se/calendar/index.php)
 
 Tabellen ska ha följande kolumner:
 - Datum (Ex. "15 april")
