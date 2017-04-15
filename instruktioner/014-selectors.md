@@ -83,17 +83,17 @@ Om du vill läsa mer kan du lära dig mer kan du experimentera här: [CSS Select
 ### Övning
 
 1. Öppna `main.css`.
-2. Lägg till en `info` klassväljare (en klassväljare börjar med en punkt: `.`).
+1. Lägg till en `info` klassväljare (en klassväljare börjar med en punkt: `.`).
 - Sätt dess `background` till `gray`.
 - Sätt dess `font-weight` till`bold`.
 - Sätt dess `padding` till`10px`.
-3. Lägg till en `vga` ID väljare (en ID-väljare börjar med en hashtag  `#`).
+1. Lägg till en `vga` ID väljare (en ID-väljare börjar med en hashtag  `#`).
 - Sätt dess `letter-spacing` till`8px`.
 - Sätt dess `padding` till`10px`.
 - Sätt dess `text-transform` till `uppercase`.
 - Sätt dess `background` till `blue`.
 - Sätt dess `color` till `white`.
-4. Öppna `index.html`.
-- Använd `<span>`-tagg för att lägga toll info-klassen på samtliga info paragrafer.
-- Lägg till `vga` som `id` attribut till en `span`-tagg som omger texten vga.
+1. Öppna `index.html`.
+- Lägg till info-klassen på de första info paragraferna.
+- Lägg till `vga` som `id` attribut till en `span`-tagg som omger texten vga i rubriken.
 
