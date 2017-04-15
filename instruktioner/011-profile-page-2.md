@@ -20,9 +20,9 @@ Kommer den grymma profil för ditt gaming-alias som du gjort? Nu ska vi lägga t
 | ----- | --- |
 | Favoritbok | Tzatsiki morsan och polisen |
 | Favoritfilm | Notting Hill |
-| Favoritband / artist | Esbjörn Svensson Trio |
-| Favorit tv-serie | How I met Your Mother |
-| Favorituttryck | Kappa |
+| Favoritband / artist | Bicycle Beat |
+| Favorit tv-serie | Blodluvan |
+| Favoritdrink i CH-Loungen | Huvudvärk |
 
 5. Lägg till länkar i tabellen. För varje svar i tabellen, ska svaret länka till en relevant sida för svaret. t.ex: 
 
