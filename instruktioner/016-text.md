@@ -1,7 +1,7 @@
 ### Mål
 
 Efter denna övning ska du kunna:
-- Förklara skillnaden mellan pixlar och ems
+- Förklara skillnaden mellan pixlar och §
 - Använd `font` och `text` attribut för att styla texter
 - Använd `text-shadow` CSS attribut för att skapa skugga
 
@@ -18,7 +18,7 @@ Det finns fler sätt att utformar text - alldeles för många för att inkludera
 
 ----
 
-Vi har angett storlekar i * pixlar * (PX), som räknar antalet prickar på en datorskärm. Många designers föredrar att ange textstorlekar i * ems *:
+Vi har angett storlekar i * pixlar * (PX), som räknar antalet prickar på en datorskärm. Många designers föredrar att ange textstorlekar i * em *:
 
 ```css
 p {
@@ -64,12 +64,12 @@ De första två siffrorna representerar den horisontella och vertikala storleken
 ### Övning
 
 1. Öppna `index.html`.
-- Lägg till denna text i två stycken. Placera den mellan huvudet och tabellen:
+- Lägg till denna text i två stycken. Placera den mellan informationen och tabellen:
 
 > Cable Connectors Spelsällskap är en förening grundad i Vårgårda kommun 2014 av gänget bakom den lokala gaming-festivalen Countryhack. Föreningen har som huvudsakligt syfte att arrangera Countryhack två gånger om året. I dagsläget består CCSS av 334 medlemmar!
 
 >Vår förhoppning är att kunna bidra till den lokala gaming-kulturen i och kring Vårgårda och erbjuda människor i alla åldrar, framförallt ungdomar, att träffas för att spela dator/TV-spel med och mot varandra. Vill du också bidra till den lokala gaming-kulturen? Då är det bara att bli medlem genom att trycka på knappen nedan och följa stegen som presenteras.
 
 2. Öppna `main.css`.
-3. Applicera `font-size` och`line-height` till den nya texten.
+3. Applicera en 10% förstorad `font-size` och 50% förstorad `line-height` till den nya texten.
 4. Lägg till en text-skugga till h1-rubriken.
