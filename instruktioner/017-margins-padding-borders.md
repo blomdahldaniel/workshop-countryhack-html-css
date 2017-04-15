@@ -40,23 +40,24 @@ Om du vill lära dig mer om hur man positionerar och strukturerar responsivt inn
 
 ### Övning
 1. Öppna `index.html`.
-- Lägg `<div>` taggar runt det så kallade <p> `taggar med den inledande texten.
+- Lägg `<div>` taggar runt `<p>`-taggarna med den inledande texten.
+- Ta bort `info` klassen från `p`-taggarna och sätt istället på den omringande div-taggen
 2. Öppna `main.css`.
-3. Lägg till en ny CSS-regel in med det så kallade div` väljaren och följande egenskaper:
+3. Lägg till en ny CSS-regel för alla `div` väljaren och följande egenskaper:
 - Sätt `width` till`240px`.
 - Sätt `padding` till`10px`.
-- Sätt `border` till`5px solid white`.
+- Sätt `border` till`5px solid #fab555`.
 - Sätt `margin` till`10px`.
-- Sätt `margin-right` till`60px` att åsidosätta högermarginalen.
-- Lägg märke till att den nya styling skjuter tabellen långt ner. För att lösa detta, lägg till en `div`-klassväljare som kallas `float-left`:
+- Sätt `margin-right` till`50px` att åsidosätta högermarginalen.
+- Nu blir sidan väldigt avlång, vi vill att det ska få platts innehåll bredvid får lilla info-ruta. Vi ska skapa en `div`-klassväljare som får heta `float-left`:
 
 ```css
-div.float-vänster {
-  float: vänster;
+div.float-left {
+  float: left;
 }
 ```
 
 > Denna klassväljare gäller endast då `float-left` klassen tilldelats en `<div>`tagg.
 
 4. Öppna `index.html`.
-- Lägg `class = "float-vänster"` till `<div>`.
+- Lägg till `class="float-left"` till den `<div>` som omsluter de tre info-punkterna.
